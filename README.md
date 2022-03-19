@@ -7,4 +7,4 @@ There are many characteristics under HTML and CSS and two of them that can make 
 Pricing panels play an important role for every company that offers products or services. They are a challenge from both a design and usability standpoint. They must be simple but at the same time clearly differentiate between features and prices of different products and services. A pricing table should help users pick the most appropriate plan for them.
 
 #### Responsive View:<center>
-![gif](edgeledger-site.gif)
+![gif](https://github.com/TrishamBP/Pricing-Panel-Project/blob/main/pro.gif)
